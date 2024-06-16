@@ -3,8 +3,6 @@
 
 Nome: Gabriela de Morais da Silva
 
-Github: [https://github.com/gaebizinha/Ponderada-UX-M10](https://github.com/gaebizinha/Ponderada-UX-M10)
-
 Interface escolhida: Magazine Luiza ([https://www.magazineluiza.com.br/?partner_id=974&gad_source=1&gclid=CjwKCAjw0YGyBhByEiwAQmBEWpXaC4lypa232TIjpKwh4wxlNqQzXDeH9mTiGAtkoPoS5V9aHdRRXxoCGG0QAvD_BwE&gclsrc=aw.ds](https://www.magazineluiza.com.br/?partner_id=974&gad_source=1&gclid=CjwKCAjw0YGyBhByEiwAQmBEWpXaC4lypa232TIjpKwh4wxlNqQzXDeH9mTiGAtkoPoS5V9aHdRRXxoCGG0QAvD_BwE&gclsrc=aw.ds))
 
 Contexto: Usuário entrou no site, através de pesquisa no google para comprar uma geladeira.
