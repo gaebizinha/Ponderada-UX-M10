@@ -347,6 +347,9 @@ A partir dos feedbacks do teste com os usuários criei 3 propostas de mudanças 
 
 Para melhor entendimento as páginas indicadas como A são as originais, já as nomeadas como B são as alteradas a partir dos feedbacks.
 
+**Link para Figma:**https://www.figma.com/design/JHH6ft6tdL3hy46L4c2ukR/Atividade-UX-Gabi?node-id=11-8673&t=gmT6D0agKPSBzZAb-1
+
+
 ### Ajuste no header e menu de navegação
 
 **Objetivo: melhorar a visibilidade dos Links Importantes:**
