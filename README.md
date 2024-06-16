@@ -9,7 +9,7 @@ Interface escolhida: Magazine Luiza ([https://www.magazineluiza.com.br/?partner_
 
 Contexto: Usuário entrou no site, através de pesquisa no google para comprar uma geladeira.
 
-imagem1
+ <img width="1326" alt="image" src="https://github.com/gaebizinha/Ponderada-UX-M10/blob/main/imagens/imagem1.png">
 
 Foi escolhida a página inicial da Magazine Luiza, também conhecida como Magalu. Após acessar a página, foi identificado problemas relacionados a navegação.
 
@@ -23,15 +23,14 @@ A seguir é pontuado o problema mencionado anteriormente:
 
 - Ao acessar a seção "Nossas Lojas", percebe-se a ausência de um botão de voltar para a página anterior, o que pode causar frustração e dificultar a experiência de navegação. Esse mesmo ponto repete ao clicar em “Ver vendedores”.
 
-imagem 2
-
-imagem 3
+ <img width="1326" alt="image" src="https://github.com/gaebizinha/Ponderada-UX-M10/blob/main/imagens/imagem2.png">
+ <img width="1326" alt="image" src="https://github.com/gaebizinha/Ponderada-UX-M10/blob/main/imagens/imagem3.png">
 
 # Persona
 
 Neste momento foi criada uma persona para facilitar o mapeamento do site e em seguida criar um blueprint.
 
-imagem 4
+ <img width="1326" alt="image" src="https://github.com/gaebizinha/Ponderada-UX-M10/blob/main/imagens/imagem4.png">
 
 **Nome:** Luana Oliveira
 
@@ -66,8 +65,8 @@ imagem 4
 
 Um blueprint de serviço é uma representação visual que descreve o processo desde o início até a conclusão. Ele mapeia todas as etapas envolvidas destacando as interações entre os diferentes elementos, como clientes, funcionários e sistemas. 
 
-imagem 5
-
+ <img width="1326" alt="image" src="https://github.com/gaebizinha/Ponderada-UX-M10/blob/main/imagens/imagem5.png">
+ 
 ## Cenário
 
 Luana está buscando uma geladeira para sua nova casa e quer encontrar a loja física mais próxima que tenha o modelo desejado. Caso ela descobra que há uma loja próxima que tenha a geladeira que ela gostou, Luana planeja visitá-la no sábado e realizar a compra.
@@ -103,7 +102,7 @@ Após a finalização do blueprint, foi possível observar ao longo da jornada d
 
 # Análise Heart + GSM
 
-imagem 6
+ <img width="1326" alt="image" src="https://github.com/gaebizinha/Ponderada-UX-M10/blob/main/imagens/imagem6.png">
 
 ### Felicidade (Happiness):
 
@@ -114,7 +113,7 @@ imagem 6
 
 ### Adoção (Adoption):
 
-**Objetivo**: Que novos usuários criem uma conta  na página inicial como ponto de partida para a jornada de compra dos usuários.
+**Objetivo**: Que novos usuários criem uma conta na página inicial como ponto de partida para a jornada de compra dos usuários.
 
 **Sinais**:  Aumento na criação de contas provenientes da página inicial, crescimento na base de clientes cadastrados após primeira visita.
 **Métrica**: Taxa de conversão de visitantes em clientes, número de novos usuários cadastrados.
@@ -347,7 +346,7 @@ A partir dos feedbacks do teste com os usuários criei 3 propostas de mudanças 
 
 Para melhor entendimento as páginas indicadas como A são as originais, já as nomeadas como B são as alteradas a partir dos feedbacks.
 
-**Link para Figma:**https://www.figma.com/design/JHH6ft6tdL3hy46L4c2ukR/Atividade-UX-Gabi?node-id=11-8673&t=gmT6D0agKPSBzZAb-1
+**Link para Figma:** https://www.figma.com/design/JHH6ft6tdL3hy46L4c2ukR/Atividade-UX-Gabi?node-id=11-8673&t=gmT6D0agKPSBzZAb-1
 
 
 ### Ajuste no header e menu de navegação
@@ -360,8 +359,11 @@ Para melhor entendimento as páginas indicadas como A são as originais, já as 
     - **Experiência de Navegação:** Os usuários acharam a navegação confusa e difícil, mencionando especificamente o texto pequeno e a falta de clareza na organização do site. Aumentar o tamanho da fonte e o contraste dos links importantes pode facilitar a localização dessas áreas cruciais, melhorando a navegação.
     
 
-Imagem 7
+ <img width="1326" alt="image" src="https://github.com/gaebizinha/Ponderada-UX-M10/blob/main/imagens/imagem7.png">
 
+  <img width="1326" alt="image" src="https://github.com/gaebizinha/Ponderada-UX-M10/blob/main/imagens/imagem7.1.png">
+
+ 
 ### Ajuste no botão voltar da página Nossas Lojas
 
 **Objetivo: facilitar o Retorno à Página Inicial:**
@@ -373,7 +375,8 @@ Imagem 7
     - **Experiência de Navegação:** A navegação foi considerada confusa e difícil pelos usuários. Adicionar um botão claro de "Página Inicial" e garantir que o logo sempre redirecione à página inicial simplificará o retorno à home, facilitando a navegação.
     
 
-Imagem 8
+ <img width="1326" alt="image" src="https://github.com/gaebizinha/Ponderada-UX-M10/blob/main/imagens/imagem8.png">
+  <img width="1326" alt="image" src="https://github.com/gaebizinha/Ponderada-UX-M10/blob/main/imagens/imagem8.1.png">
 
 ### Ajuste no botão voltar da página Nossas Lojas
 
@@ -384,6 +387,7 @@ Imagem 8
 - Hipótese:
     - **Funcionalidades Favoritas:** A barra de pesquisa e os slides de produtos foram bem recebidos, sugerindo que áreas com informações claras e acessíveis são apreciadas. Exibir informações de retirada na loja diretamente na página do produto pode melhorar a transparência e a usabilidade, aumentando a satisfação do usuário.
 
-Imagem 9
+ <img width="1326" alt="image" src="https://github.com/gaebizinha/Ponderada-UX-M10/blob/main/imagens/imagem9.png">
+  <img width="1326" alt="image" src="https://github.com/gaebizinha/Ponderada-UX-M10/blob/main/imagens/imagem9.1.png">
 
 Essas alterações visam aprimorar a experiência do usuário ao navegar no site da Magazine Luiza, tornando a interface mais intuitiva e fácil de usar. Implementar essas melhorias pode resultar em uma navegação mais intuitiva, aumento na satisfação do usuário e, consequentemente, maior taxa de recomendação do site da Magazine Luiza.
