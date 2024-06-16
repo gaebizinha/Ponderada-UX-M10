@@ -74,7 +74,7 @@ Luana está buscando uma geladeira para sua nova casa e quer encontrar a loja f�
 
 Link para melhor visualização da imagem: [https://www.figma.com/board/zRoHELUKRvpAVBM28nEMHq/Ponderada-UX?node-id=0%3A1&t=fwSSPVwmiMUPQr6p-1](https://www.figma.com/board/zRoHELUKRvpAVBM28nEMHq/Ponderada-UX?node-id=0%3A1&t=fwSSPVwmiMUPQr6p-1) 
 
-imagem 6
+
 
 # Jornada
 
@@ -103,7 +103,7 @@ Após a finalização do blueprint, foi possível observar ao longo da jornada d
 
 # Análise Heart + GSM
 
-imagem 7
+imagem 6
 
 ### Felicidade (Happiness):
 
@@ -357,7 +357,7 @@ Para melhor entendimento as páginas indicadas como A são as originais, já as 
     - **Experiência de Navegação:** Os usuários acharam a navegação confusa e difícil, mencionando especificamente o texto pequeno e a falta de clareza na organização do site. Aumentar o tamanho da fonte e o contraste dos links importantes pode facilitar a localização dessas áreas cruciais, melhorando a navegação.
     
 
-Imagem 8
+Imagem 7
 
 ### Ajuste no botão voltar da página Nossas Lojas
 
@@ -370,7 +370,7 @@ Imagem 8
     - **Experiência de Navegação:** A navegação foi considerada confusa e difícil pelos usuários. Adicionar um botão claro de "Página Inicial" e garantir que o logo sempre redirecione à página inicial simplificará o retorno à home, facilitando a navegação.
     
 
-Imagem 9
+Imagem 8
 
 ### Ajuste no botão voltar da página Nossas Lojas
 
@@ -381,6 +381,6 @@ Imagem 9
 - Hipótese:
     - **Funcionalidades Favoritas:** A barra de pesquisa e os slides de produtos foram bem recebidos, sugerindo que áreas com informações claras e acessíveis são apreciadas. Exibir informações de retirada na loja diretamente na página do produto pode melhorar a transparência e a usabilidade, aumentando a satisfação do usuário.
 
-Imagem 10
+Imagem 9
 
 Essas alterações visam aprimorar a experiência do usuário ao navegar no site da Magazine Luiza, tornando a interface mais intuitiva e fácil de usar. Implementar essas melhorias pode resultar em uma navegação mais intuitiva, aumento na satisfação do usuário e, consequentemente, maior taxa de recomendação do site da Magazine Luiza.
